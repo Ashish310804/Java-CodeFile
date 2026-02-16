@@ -1,0 +1,1 @@
+cd "c:\Users\Ashish Dwivedi\OneDrive\Desktop\JAVA PROJECT 01\" ; if ($?) { javac FileReadExm.java } ; if ($?) { java FileReadExm }
